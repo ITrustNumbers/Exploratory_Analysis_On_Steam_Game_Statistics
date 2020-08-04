@@ -1,4 +1,4 @@
-# This is an Exploratory Analysis on Steam Game Statistics Focusing on the Rating of Games and Hours Played on steam
+## This is an Exploratory Analysis on Steam Game Statistics Focusing on the Rating of Games and Hours Played on steam
 
 ## Research Question or Motivation For this Project/Analysis
 
