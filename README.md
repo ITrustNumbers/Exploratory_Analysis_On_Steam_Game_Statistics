@@ -28,7 +28,7 @@
 
 ## Final Visualization :
 
-![Final Visualization](https://github.com/ITrustNumbers/Explatory_Analysis_on_Steam_Game_Statistics/blob/master/Final_Visualization.PNG)
+![Final Visualization](https://github.com/ITrustNumbers/Exploratory_Analysis_On_Steam_Game_Statistics/blob/master/Final_Visualization.PNG)
 
 ## Corollary :-
 ### First, As we can see there are really next to no co-relation between the rating and the play time of a game, This Peculiar phenomena is described below:
