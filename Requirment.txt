@@ -1,0 +1,15 @@
+Python3
+
+Jupyter Notebook
+
+ipykernel
+
+Pandas
+
+Numpy
+
+Matplotlib
+
+Seaborn
+
+Scipy
