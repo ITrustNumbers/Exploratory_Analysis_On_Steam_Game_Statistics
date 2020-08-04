@@ -1,3 +1,7 @@
+## Research Question or Motivation For this Project/Analysis
+
+### Ѳ To Determine the relation if any between the rating of a game and its market Success (Measuredas Hours the game was played)
+
 ## This is an Exploratory Analysis on Steam Game Statistics Focusing on the Rating of Games and Hours Played on steam
 
 ### The Data Sets Used in this Analysis :-
@@ -9,10 +13,6 @@
 #### 2. [Steam Game Played by Hours DataSet On Kaggle](https://www.kaggle.com/tamber/steam-video-games)
 
 ####     -> This Data Set contains different game played on steam along with the number of hours the game was played by different users this information is used to calculate Normalized Play Score for each game in this Analysis
-
-## Research Question or Motivation For this Project/Analysis
-
-### Ѳ To Determine the relation if any between the rating of a game and its market Success (Measuredas Hours the game was played)
 
 ## Normalization Method Used :
 
