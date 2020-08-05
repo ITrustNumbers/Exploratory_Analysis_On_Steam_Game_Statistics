@@ -2,7 +2,7 @@
 
 ## Research Question or Motivation For this Project/Analysis
 
-### Ѳ To Determine the relation if any between the rating of a game and its market Success (Measuredas Hours the game was played)
+### Ѳ To Determine the relation if any between the rating of a game and its market Success (Measured as Hours the game was played)
 
 ### The Data Sets Used in this Analysis :-
 
